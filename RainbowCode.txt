@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <title>ARTBlok</title> <!-- Ik ben vergeten hoe ik het logo hier moet plaatsen-->
+    </head>
+        <body>
+             
+            <header>                   
+                <nav><!-- Dit is de main navigation. Ik weet niet zeker of ik voor deze navigatiecomponenten iets anders moet gebruiken-->
+                    <ul>
+                        <li><a herf="#">Shop Essentials</a></li>
+                        <li><a herf="#">About</a></li>
+                        <li><a herf="#">Blog</a></li>
+                        <li><a herf="#">ARTBlok</a></li>
+                    </ul>
+                </nav> 
+            </header>                  
+    
+
+        <main><!-- main content of the page-->
+            
+            <div class="herobanner"> <!-- start heroimage text-->
+                <section> 
+                    
+                  <h1>Introducing the new collection</h1>                  
+                
+                  <a herf="#">SHOP NOW</a> 
+                </section> 
+            </div>
+
+            <section class="products"><!--main products we provide-->
+                <!-- de tekst moet dezelfde kleur zijn zoals op de website-->
+                <h1>PAINTINGS<br /> Acryl on canvas </h1>
+                <div class="card"">
+                    <img src="#" alt="paintings"> 
+                    <h2>Sizes</h2>
+                        <ul>
+                            <li>240 x 150 cm</li>
+                            <li>200 x 150cm</li>
+                            <li>50 x 150cm </li>
+                            <li>50 x 145cm</li>
+                        </ul>
+                       <a herf="#" class="button">GALLERY</a>
+                </div>
+                <!-- de tekst moet dezelfde kleur zijn zoals op de website-->
+                <h1>STATUES <br  /> Installation</h1>
+                <div class="card"">
+                    <img src="#" alt="statues"> 
+                    <h2>Sizes</h2>
+                        <ul>                    
+                            <li>400 x 250cm</li>
+                            <li>300 x 150cm</li>
+                            <li>200 x 100cm </li>
+                            <li>100 x 50cm</li>
+                       </ul>
+                       <a herf="#" class="button">GALLERY</a>
+                </div>
+                <h1>WORKSHOPS<br /> Acryl on canvas </h1><!-- de tekst moet dezelfde kleur zijn zoals op de website-->
+                <div class="card"">
+                    <img src="#" alt="Workshops"> 
+
+                    <h2>PAINTING</h2>
+                        <ul>
+                        <li>portraits</li>
+                        <li>still life</li>
+                        </ul>
+
+                    <h3>SCULPTING</h3>
+                        <ul>
+                        <li>wood </li>
+                        <li>stone</li>
+                        <li>clay</li>
+                        </ul>
+
+                     <h4>DRAWING</h4>
+                        <ul>
+                        <li>portraits</li>
+                        <li>still life</li>
+                        </ul>
+                        <a herf="#" class="button">GALLERY</a>
+                </div>"
+
+            </section><!-- end of main products we provide-->
+          
+        </main><!-- end main content-->
+
+        <section class="About the founder section">
+           <img src="#" alt="The Founder of ART Blok">
+           <h1>FOUNDER ART Blok</h1>
+           <h2>GEORGE'S STORY</h2>
+             <p>For me, it is about relaying a feeling instead of only showing 
+                a conbination of beautiful colors.
+                I believe art is all about being able to express every version of
+                yourself.
+                Whatever type of person you are.</p>
+                <a herf="#" class="button">READ MORE</a>
+               
+        <!--testemonials--> <!-- in les 123 part 1  rond  min 50 zie je hoe je quotes moet uitbeelden in tags -->
+        <aside class="testimonials">
+            <h1>As seen on television</h1> 
+            <h2>The Surinamese<br /> 
+                independence day monument </h2>
+            <img src="#" alt=" The Surinamese Independance day statue">
+            <blockquote>
+            <p> A true addittion<br /> 
+                to the public enviornement.</p>
+                <q>  - Harald Schole ART ZUID</q>
+            </blockquote> 
+        <h3>The ‘Mi Famiri’ statue</h3>
+            <img src="#" alt="The ‘Mi Famiri’ statue">
+        </aside>
+        <!-- end testimonials-->
+
+
+
+        </section>
+
+    </div>
+
+        
+    </body>
+    
+</html>
